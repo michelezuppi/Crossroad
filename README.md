@@ -1,6 +1,10 @@
 # Integration
 This repository holds the link to other repositories containing more of my work
 
+PIMMs work
+
+https://github.com/michelezuppi/PIMMSgit
+
 Phages in the Gut Bugs Trial
 
 https://github.com/miczuppi/Phages-in-the-Gut-Bugs-Trial 
